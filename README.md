@@ -1,15 +1,19 @@
 # No-Tall-Grass
+
 Minecraft datapack to prevent short and/or tall grass.
 
 # Why?
+
 Tired of missing loot drops or getting surprised by creepers camouflaged in foliage? This data pack eliminates distracting tall grass for red-green colorblind players, creating a clearer, safer, and more enjoyable Minecraft experience.
 
 I also open the [Sapixcraft](https://sapixcraft.com/) resource pack and change the creeper hue to blue so I can see it.
 
 # Supported Versions
+
 - 1.20 - 1.20.1 pack_format 15
 
 # Helpful Resources
+
 - https://minecraft.fandom.com/wiki/Java_Edition_1.20.1
 - https://minecraft.fandom.com/wiki/Pack_format
 - https://misode.github.io/
